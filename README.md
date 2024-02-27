@@ -12,5 +12,5 @@
 ⭐[AAAI 2021]Graph Sparsification via Meta-Learning.[paper](https://harshakokel.com/pdf/WanKokel_DLGAAAI21.pdf)  
 
 # Graph Structure Learning methods: use a bilevel optimization pipeline   
-⭐[NIPS]Iterative deep graph learning for graph neural networks: Better and robust node embeddings.[paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf)  
+⭐[NIPS 2020]Iterative deep graph learning for graph neural networks: Better and robust node embeddings.[paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf)  
 ⭐[ICML 2019]Learning discrete structures for graph neural networks.[paper](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf)
