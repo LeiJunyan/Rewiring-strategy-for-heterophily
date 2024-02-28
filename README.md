@@ -8,8 +8,8 @@
 ⭐[ICML 2023] Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs.[paper](https://arxiv.org/pdf/2306.07608.pdf)  
 
 # Graph Structure Learning methods: make adjacency matrix a learnable parameter:  
-⭐[IEEE-ICME 2020]Exploring structure-adaptive graph learning for robust semi-supervised classification.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726)  
-⭐[AAAI 2021]Graph Sparsification via Meta-Learning.[paper](https://harshakokel.com/pdf/WanKokel_DLGAAAI21.pdf)  
+☑️[IEEE-ICME 2020]Exploring structure-adaptive graph learning for robust semi-supervised classification.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9102726)  
+☑️[AAAI 2021]Graph Sparsification via Meta-Learning.[paper](https://harshakokel.com/pdf/WanKokel_DLGAAAI21.pdf)  
 
 # Graph Structure Learning methods: use a bilevel optimization pipeline   
 ⭐[NIPS 2020]Iterative deep graph learning for graph neural networks: Better and robust node embeddings.[paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf)  
