@@ -15,7 +15,7 @@
 ⭐Deep Graph Structure Learning for Robust Representations: A Survey.[paper](https://arxiv.org/pdf/2103.03036v1.pdf)  
 ☑️[ICML 2019]Learning discrete structures for graph neural networks.[paper](http://proceedings.mlr.press/v97/franceschi19a/franceschi19a.pdf)  
 ⭐[NIPS 2020]Iterative deep graph learning for graph neural networks: Better and robust node embeddings.[paper](https://proceedings.neurips.cc/paper/2020/file/e05c7ba4e087beea9410929698dc41a6-Paper.pdf)  
-⭐[AAAI2021]Heterogeneous Graph Structure Learning for Graph Neural Networks.[paper](https://librahu.github.io/data/aaai2021-HGSL.pdf)  
+⭐[AAAI2021]Heterogeneous Graph Structure Learning for Graph Neural Networks.[paper](https://librahu.github.io/data/aaai2021-HGSL.pdf)[code](https://github.com/AndyJZhao/HGSL)  
   
 # High pass filter in heterophily graph  
 ☑️[AAAI 2021]Beyond Low-frequency Information in Graph Convolutional Networks.[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16514) [code](https://github.com/alexfanjn/FAGCN_PyG?tab=readme-ov-file)  
